@@ -1,0 +1,249 @@
+footer{
+
+}
+
+body    {
+    background-color: darkgray;
+}
+
+.img-100p {
+    height: 100px !important	;
+    width: 100px !important;
+}
+
+.w-40p {
+    width: 80px;
+}
+
+.p {
+    text-overflow: ellipsis !important; /* will make [...] at the end */
+    width: 370px !important; /* change to your preferences */
+    white-space: nowrap !important; /* paragraph to one line */
+    overflow:hidden !important; /* older browsers */
+    }
+
+#imgProfile {
+    height: 50px;
+    border-radius: 25px;
+    width: 50px;
+}
+
+.h-20p {
+    height: 48px !important;
+}
+
+
+.text-18{
+    font-size: 18px !important;
+}
+
+.text-16{
+    font-size: 16px !important;
+}
+
+.text-14{
+    font-size: 14px !important;
+}
+
+.text-12{
+    font-size: 12px !important;
+}
+
+.text-20{
+    font-size: 20px !important;
+}
+
+.text-title{
+    font-size: 32px !important;
+}
+
+#profile {
+    visibility: visible;
+
+}
+
+.main-reply {
+
+}
+
+.votebtn {
+    height: 40px;
+}
+
+
+.ml-0-5 {
+    margin-left: 0.5px !important;
+}
+
+.sub-replie {
+
+    padding: 3px !important;
+    border: solid 1px white !important;
+
+    background-color: rgba(0, 0, 0, 0.1);
+
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+
+}
+
+.list {
+    list-style: none;
+    margin: 0;
+
+}
+
+.bg-vueg {
+    background-color: #41b883;
+}
+
+.border-rad-25 {
+    border-radius: 25px;
+}
+
+.border-rad-5
+{
+    border-radius: 5px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.box    {
+    min-height: 70px !important ;
+}
+
+.bg-none{
+    background: none !important;
+}
+
+.imgProfile {
+    height: 100px!important;
+    width: 100px!important;
+    border-radius: 25px;
+}
+
+
+.bg-vueb {
+    background-color: #34495e;
+}
+.topictit {
+    font-size: 19px;
+
+}
+
+.topic {
+    list-style: none;
+}
+
+#overlayImg {
+    display: none;
+}
+
+#profpic:hover #overlayImg {
+    display: inline !important;
+    cursor: pointer;
+}
+
+.z-5 {
+    z-index: 5;
+}
+
+.searchh {
+    background: none;
+    border: none;
+}
+
+
+.taggs  {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #41b883;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.noresize {
+    resize: none;
+}
+
+
+
+.h-100p {
+    height: 100px;
+}
+
+
+.imgAB  {
+
+    height: 300px;
+    width: 300px;
+}
+
+.titlebar {
+    height: 80px;
+
+}
+
+.submitsrc  {
+    background: none;
+    border: none;
+}
+
+
+.AB {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.hidden {
+    display: none;
+}
+
+.shown {
+    display: inline-block;
+}
+
+.kaartOverlay {
+    display: none;
+    margin: 0;
+    margin-left: -11px;
+    padding: 0;
+}
+
+.center {
+    margin-left: auto !important;
+
+    margin-right: auto!important;
+}
+
+
+
+
+
+.content {
+    font-size: 18px !important;
+}
+
+
+
+.kaartjes:hover .kaartOverlay{
+    display: inline-block;
+    background-color: red;
+
+}
+
+.kaart {
+    height: 200px;
+
+
+}
+
+.title {
+    text-align: center;
+
+}
+
